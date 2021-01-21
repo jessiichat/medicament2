@@ -49,9 +49,6 @@ public class Medicament2Application {
 		medicamentService.create(medicament4);
 		
 		System.out.println(medicamentService.list());
-		
-		// Modification 1
-		System.out.println("Modification 1");
 	}
 
 }
